@@ -1,7 +1,7 @@
 # cookbook
 
-<img width="200px" height="200px" src="cookbook.png">
-<img width="200px" height="200px" src="parsing.png">
+<img width="400" src="cookbook.png">
+<img width="400" height="200px" src="parsing.png">
 
 `cookbook` is a non-gui app to manage your recipes in the terminal and them in a csv file. It also scrapes Allrecipes.com to allow you to search for recipes and add them directly to your cookbook.
 
