@@ -20,7 +20,7 @@ It is written in ruby only and follows the MVC pattern
 ## Installation
 ### Clone the repository
 ```
-$ git clone git@github.com:jordannardoj/cookbook.git
+$ git clone git@github.com:jordannadroj/cookbook.git
 $ cd project
 ```
 ### Check your Ruby version
